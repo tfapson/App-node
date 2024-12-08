@@ -1,0 +1,13 @@
+{
+    "name": "application-tier-app",
+    "version": "1.0.0",
+    "description": "Application Tier for N-tier Azure Architecture",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
